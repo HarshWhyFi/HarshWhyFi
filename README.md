@@ -73,22 +73,3 @@
 
 <br><br>
 
----
-
-<h3 align="left">📸 Check Out My Photography:</h3>
-<p align="left">
-  <a href="https://www.instagram.com/harshsharma_33" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/https://youtube.com/channel/uc6l2on0euvzl_1dbuslk4na?si=ts-qjtsadg6icx0d" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
-<br><br>
-
----
-
-<h3 align="left">💡 Fun Challenges:</h3>
-- 📸 Weekly Photo Challenges: Share your best photos using #HarshShots
-- 💻 Coding Challenges: Build a project using only HTML, CSS, and JavaScript by next month!
