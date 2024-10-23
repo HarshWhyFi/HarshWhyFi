@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
-<h3 align="center">A Passionate Mobile Photographer with a Keen Interest in Web Development</h3>
+<h3 align="center">A Passionate Mobile Photographer with a Keen Interest in Tech World.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshwhyfi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -53,8 +53,6 @@
 </p>
 
 <br><br> <!-- Adding space before the GitHub Stats section -->
-
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
